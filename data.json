@@ -1,0 +1,32 @@
+{
+  "orders": [
+    {
+      "customerName": "Nabil Mubashir",
+      "phoneNumber": "01303436921",
+      "address": "Ashulia, Savar, Dhaka",
+      "jerseyName": "Player Edition",
+      "teamName": "Argentina",
+      "size": "L",
+      "quantity": 1,
+      "sellingPrice": 900,
+      "buyingCost": 700,
+      "deliveryCharge": 0,
+      "otherExpense": 0,
+      "status": "Delivered",
+      "paymentStatus": "Paid",
+      "date": "2026-05-12",
+      "id": "1778612083678",
+      "createdAt": "2026-05-12T18:54:43.678Z",
+      "updatedAt": "2026-05-12T18:57:30.156Z"
+    }
+  ],
+  "inventory": [],
+  "expenses": [],
+  "users": [
+    {
+      "id": "admin",
+      "email": "admin@jerseypro.com",
+      "password": "password123"
+    }
+  ]
+}
